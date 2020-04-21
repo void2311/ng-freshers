@@ -4,5 +4,10 @@
 }
 
 .active {
-  background-color: #0c5460;
+  background-color: hsl(328, 75%, 68%);
 }
+
+/* .table .table-hover tbody tr.active:hover,
+.table .table-hover tbody tr.active {
+background-color: #2e5f95;
+}  */

@@ -22,6 +22,7 @@
     "@angular/router": "~9.1.1",
     "@fortawesome/fontawesome-free": "^5.13.0",
     "bootstrap": "^4.4.1",
+    "ng": "0.0.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "uuid": "^7.0.3",
@@ -49,5 +50,17 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "description": "1. Download and Install [Git For Windows](https://git-scm.com/download/win) or [Git For Mac](https://git-scm.com/download/mac).\r 2. Download and Install [Node](https://nodejs.org/en/). Download the **LTS** version.\r 3. Download and Install [VSCode](https://code.visualstudio.com/).",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innovation-stack/ng-freshers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innovation-stack/ng-freshers/issues"
+  },
+  "homepage": "https://github.com/innovation-stack/ng-freshers#readme"
 }
